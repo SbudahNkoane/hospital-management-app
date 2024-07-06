@@ -34,7 +34,9 @@ migrate_working_dir/
 
 # Sensitive data
 /lib/firebase_options.dart
-/lib/firebase.json
+/firebase.json
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
 
 # Symbolication related
 app.*.symbols
