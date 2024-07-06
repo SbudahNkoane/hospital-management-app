@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314167111153",
+    "project_id": "ambulance-dispatch-401323",
+    "storage_bucket": "ambulance-dispatch-401323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314167111153:android:cfb4ac627d7a934054e850",
+        "android_client_info": {
+          "package_name": "com.example.ambulance_dispatch_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhIh0xzIHgbsmCy4pdSWqMUHY68MEjwPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314167111153:android:14d19aa59c0500e654e850",
+        "android_client_info": {
+          "package_name": "com.example.hospital_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhIh0xzIHgbsmCy4pdSWqMUHY68MEjwPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
